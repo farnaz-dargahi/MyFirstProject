@@ -4,14 +4,12 @@
 This simple Java program asks the user for a student’s name and three test scores, 
 calculates the average score, and displays the letter grade (A–F) based on the average.
 
----
 
 ## Learning Objectives
 - Practice using variables, input/output, and basic arithmetic operations.
 - Apply conditional statements (`if–else`) for grade evaluation.
 - Reinforce user interaction using the `Scanner` class.
 
----
 
 ## How to Run
 1. Open your IDE (e.g., IntelliJ or Eclipse).
@@ -21,7 +19,6 @@ calculates the average score, and displays the letter grade (A–F) based on the
    - The student’s name  
    - Three test scores (e.g., 85, 90, 78)
 
----
 
 ## Example Output
 Enter student name: Alex
@@ -34,8 +31,6 @@ Name: Alex
 Average Score: 84.33
 Letter Grade: B
 
-
----
 
 ## Author
 Your Name  
