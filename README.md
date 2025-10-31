@@ -31,7 +31,7 @@ Enter third score: 78
 Name: Alex
 Average Score: 84.33
 Letter Grade: B
-
+```
 
 ## Author
 Your Name  
