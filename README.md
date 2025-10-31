@@ -22,13 +22,14 @@ calculates the average score, and displays the letter grade (A–F) based on the
 
 ## Example Output
 ```text
-Enter student name: Alex
+Enter student name: Bob
 Enter first score: 85
 Enter second score: 90
 Enter third score: 78
 
+
 --- Student Report ---
-Name: Alex
+Name: Bob
 Average Score: 84.33
 Letter Grade: B
 ```
