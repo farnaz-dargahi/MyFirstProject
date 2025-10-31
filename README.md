@@ -56,7 +56,7 @@ public class Main {
 }
 ```
 ## Author
-Your Name  
+Naz  
 CISC 190 – Java Programming  
 San Diego Miramar College
 
