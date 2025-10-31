@@ -33,6 +33,28 @@ Average Score: 84.33
 Letter Grade: B
 ```
 
+##  Starter Code
+Here’s the starter template you can use before adding the logic for calculations:
+
+```java
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+
+        // TODO: Ask the user for name and three scores
+
+        // TODO: Calculate the average score
+
+        // TODO: Determine the letter grade based on the average
+
+        // TODO: Display the results
+
+        input.close();
+    }
+}
+
 ## Author
 Your Name  
 CISC 190 – Java Programming  
