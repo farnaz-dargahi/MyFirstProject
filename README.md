@@ -8,6 +8,7 @@ calculates the average score, and displays the letter grade (A–F) based on the
 ## Learning Objectives
 - Practice using variables, input/output, and basic arithmetic operations.
 - Apply conditional statements (`if–else`) for grade evaluation.
+- learn github
 - Reinforce user interaction using the `Scanner` class.
 
 
