@@ -1,5 +1,5 @@
 
-# Lab: Student Grade Calculator
+# Lab: Student Grade Calculator, this is a test
 
 This simple Java program asks the user for a student’s name and three test scores, 
 calculates the average score, and displays the letter grade (A–F) based on the average.
@@ -18,7 +18,8 @@ calculates the average score, and displays the letter grade (A–F) based on the
 4. Run the program and enter:
    - The student’s name  
    - Three test scores (e.g., 85, 90, 78)
-this is a test
+
+
 
 ## Example Output
 ```text
