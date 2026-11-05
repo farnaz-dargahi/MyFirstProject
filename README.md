@@ -18,7 +18,7 @@ calculates the average score, and displays the letter grade (A–F) based on the
 4. Run the program and enter:
    - The student’s name  
    - Three test scores (e.g., 85, 90, 78)
-
+this is a test
 
 ## Example Output
 ```text
